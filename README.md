@@ -3,5 +3,7 @@
 Análise de dados do Titanic:
 
 Quantas pessoas morreram
+
 Quais os sexos dela
+
 Quais os nomes delas
